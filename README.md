@@ -20,3 +20,11 @@ It is recognition-level material for decision owners operating under scrutiny.
 
 All materials in this repository are provided at recognition level only.
 They are non-normative and intentionally scoped.
+
+
+
+## Index
+
+- [TRIGGERS — When This Index Becomes Necessary](TRIGGERS.md)
+- [PACKS — What to Pull When a Trigger Occurs](PACKS.md)
+
