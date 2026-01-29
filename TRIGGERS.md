@@ -98,3 +98,12 @@ Many failures do not originate from malicious intent or technical inability.
 They originate from systems proceeding while authority, responsibility, or context is unresolved.
 
 This index is designed to be used **before**, **during**, or **immediately after** those moments.
+
+## Regulatory scrutiny clocks (contextual)
+Across multiple regulatory and supervisory domains, incident and decision scrutiny is increasingly time-bound.
+
+In several regimes, organisations are expected to produce contemporaneous records within compressed timeframes following an incident or material action. These time-bound scrutiny patterns increase the importance of having documentation that reflects what was known, relied upon, and authorised at the moment of action, rather than reconstructed later.
+
+This is observable in emerging incident reporting expectations, operational resilience oversight, and cross-border supervisory cooperation, where early notification, follow-up reporting, and final review stages are explicitly sequenced.
+
+
