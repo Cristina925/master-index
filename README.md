@@ -28,3 +28,5 @@ They are non-normative and intentionally scoped.
 - [TRIGGERS — When This Index Becomes Necessary](TRIGGERS.md)
 - [PACKS — What to Pull When a Trigger Occurs](PACKS.md)
 
+Licensed distribution of the Master Emergency Accountability Bundle is available here:
+https://payhip.com/b/2JxOy
